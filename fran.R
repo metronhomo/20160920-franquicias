@@ -92,7 +92,10 @@ tipologia de sucursal
 # Al final damos el nombre de las personas y va a haber reemplazos
 
 
+uno por perfil por zona, ya no tanto por antiguedad
 
+
+zona y negocio puesto son prioridad
 
 
   
